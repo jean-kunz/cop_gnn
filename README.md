@@ -8,3 +8,5 @@ https://distill.pub/2021/gnn-intro/
 https://arxiv.org/pdf/1812.08434
 https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial
 
+### Node2vec
+https://spotintelligence.com/2024/01/18/node2vec/
