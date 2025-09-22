@@ -23,6 +23,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "pyfglt>=0.3.0",
     "seaborn>=0.13.2",
+    "tensorboard>=2.20.0",
 ]
 
 [project.optional-dependencies]
